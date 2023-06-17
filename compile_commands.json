@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wno-unused-parameter",
+      "-c",
+      "-o",
+      "isos_inject.o",
+      "isos_inject.c"
+    ],
+    "directory": "/home/rahmani/software-sec/project/software-security-project",
+    "file": "/home/rahmani/software-sec/project/software-security-project/isos_inject.c",
+    "output": "/home/rahmani/software-sec/project/software-security-project/isos_inject.o"
+  }
+]
